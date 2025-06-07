@@ -124,7 +124,8 @@ streamlit run main.py
 
 ## 📸 Screenshot (optional)
 
-You can include a screenshot of the Streamlit UI for visual impact:
+
+![Screenshot from 2025-06-07 16-46-29](https://github.com/user-attachments/assets/04bfbd2f-5cfc-45cf-99f6-05321cd48f59)
 
 ```
 ![TalentScout Screenshot](screenshot.png)
@@ -134,21 +135,20 @@ You can include a screenshot of the Streamlit UI for visual impact:
 
 ## 🛡️ License
 
-MIT License © 2025 [Your Name]
+MIT License © 2025 [Samarth Mishra]
 
 ---
 
 ## 🙋 Want to Contribute?
 
 PRs welcome! Please open an issue first for major changes.  
-If you’d like help deploying this app to [Streamlit Cloud](https://streamlit.io/cloud) or [Vercel](https://vercel.com), let me know!
 
 ---
 
 ## 📫 Contact
 
 If you have questions or ideas, feel free to reach out at:  
-📧 **your-email@example.com**
+📧 **samarthmishra46@gmail.com**
 
 ---
 
