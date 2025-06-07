@@ -1,8 +1,11 @@
 # 🤖 TalentScout AI Assistant
 
 **TalentScout** is a conversational AI-powered hiring assistant built with **Streamlit** and **OpenAI**. It conducts technical screenings in a human-like chat interface, collects candidate information, and asks personalized technical questions **one by one**.
-**Live At-**[http://13.49.244.69:8501/](http://13.49.244.69:8501/)
+
 ---
+
+**Live At-**[http://13.49.244.69:8501/](http://13.49.244.69:8501/)
+
 
 ## ✨ Features
 
