@@ -122,14 +122,14 @@ streamlit run main.py
 
 ---
 
-## 📸 Screenshot (optional)
+## 📸 Screenshot
+
+![Screenshot](https://github.com/user-attachments/assets/04bfbd2f-5cfc-45cf-99f6-05321cd48f59)
 
 
-![Screenshot from 2025-06-07 16-46-29](https://github.com/user-attachments/assets/04bfbd2f-5cfc-45cf-99f6-05321cd48f59)
+## 📸 Demo Video
 
-```
-![TalentScout Screenshot](screenshot.png)
-```
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3B-SFOTzllI/0.jpg)](https://www.youtube.com/watch?v=3B-SFOTzllI)
 
 ---
 
